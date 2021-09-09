@@ -9,9 +9,9 @@ h1 {
     position: absolute;
     left: 0px;
     top: 0px;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Syne', sans-serif;
     color: white;
-    font-size: 190%;
+    font-size: 12em;
     line-height: 1.4;
     padding-left: 5%;
     padding-top: 3%;
@@ -26,9 +26,9 @@ h2 {
     position: absolute;
     left: 0px;
     top: 0px;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Syne', sans-serif;
     color: white;
-    font-size: 190%;
+    font-size: 12em;
     line-height: 1.4;
     padding-left: 5%;
     padding-top: 12%;
@@ -43,9 +43,9 @@ h3 {
     position: absolute;
     left: 0px;
     top: 0px;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Syne', sans-serif;
     color: white;
-    font-size: 190%;
+    font-size: 12em;
     line-height: 1.4;
     padding-left: 5%;
     padding-top: 18.5%;
